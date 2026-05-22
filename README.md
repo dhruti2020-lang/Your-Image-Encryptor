@@ -25,5 +25,5 @@ An Image Encryption & Decryption software developed using Python.
 
 Install required libraries:
 
-pip install pycryptodome pillow opencv-python# Your-Image-Encryptor
+pip install pycryptodome pillow opencv-python
 
