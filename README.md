@@ -27,3 +27,5 @@ Install required libraries:
 
 pip install pycryptodome pillow opencv-python
 
+## Usage
+Download your-image-encryption.py and run using python command
